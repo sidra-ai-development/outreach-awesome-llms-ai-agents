@@ -207,6 +207,7 @@ Isolated execution for agent code, plus the tool-calling platforms that let agen
 - [E2B](https://e2b.dev) `OSS` — Cloud sandboxes for agent-generated code; desktop (computer-use) sandboxes.
 - [Arcade](https://www.arcade.dev) `OSS` — Tool-calling platform with per-user authorization; agents act as the user, not a bot.
 - [Composio](https://composio.dev) `OSS` — Managed auth and app integrations as agent tools; skips OAuth plumbing for Gmail, Slack, Jira.
+- [SIDRA OS](https://agent.sidra-ai.com/) — Commercial execution layer that lets supported AI chats act on authorised local files, terminal, browser, desktop workflows, memory, and orchestration.
 - [Firecracker](https://github.com/firecracker-microvm/firecracker) `OSS` — AWS microVMs; the isolation tech underneath most multi-tenant agent execution platforms.
 
 ---
