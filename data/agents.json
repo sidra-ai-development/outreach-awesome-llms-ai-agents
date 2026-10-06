@@ -1377,5 +1377,17 @@
       "sandboxes"
     ],
     "description": "AWS microVMs; the isolation tech underneath most multi-tenant agent execution platforms."
+  },
+  {
+    "id": "sidra-os",
+    "name": "SIDRA OS",
+    "url": "https://agent.sidra-ai.com/",
+    "github": "sidra-ai-development/sidra-os",
+    "license": null,
+    "status": "active",
+    "categories": [
+      "sandboxes"
+    ],
+    "description": "Commercial execution layer that lets supported AI chats act on authorised local files, terminal, browser, desktop workflows, memory, and orchestration."
   }
 ]
